@@ -1,5 +1,5 @@
 #include<stdio>
 main ()
 {
-  printf("operation 2") ;
+  printf("operation 1") ;
 }
